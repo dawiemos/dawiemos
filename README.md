@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dawie Mostert
-- 👀 I’m interested in Programming C#, Winforms, Blazor, Xamarin
-- 🌱 I’m currently learning Blazor and Xamarin
-- 💞️ I’m looking to collaborate on C#, Winforms, Blazor, Xamarin
+- 👀 I’m interested in Programming C#, Winforms, MS SQL, Blazor, .Net Maui
+- 🌱 I’m currently learning Blazor and .Net Maui
+- 💞️ I’m looking to collaborate on C#, Winforms, MS SQL, Blazor, .Net Maui
 - 📫 How to reach me dawiemos@embo.co.za
 
 <!---
